@@ -1,0 +1,13 @@
+>1
+Phengite     228   227
+Paragonite   236   225
+Zoisite      49    319
+Chloritoid   113   129
+Quartz       205   28
+
+>2
+3540
+2650
+3350
+2820
+2650
